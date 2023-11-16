@@ -3,7 +3,7 @@ Repositório destinado ao download e visualização de atualizações do protót
 
 ###### Requisitos
 - Android 5.0 ou superior;
-- Permissão para instalação de app terceiros (fontes desconhecidas).
+- Permissão para instalação de apps terceiros (fontes desconhecidas).
 
 ###### Downloads
 Desculpe, por enquanto nenhuma versão está disponível para download.
