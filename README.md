@@ -6,7 +6,7 @@ Repositório destinado ao download e visualização de atualizações do protót
 - Permissão para instalação de apps terceiros (fontes desconhecidas).
 
 ###### Downloads
-Desculpe, por enquanto nenhuma versão está disponível para download.
+Donwloado do ProEnf v1.5 disponível [aqui](https://drive.google.com/u/0/uc?id=12ReUxPwiQXwP-KI39jvYZPCE2dhC3Nkb&export=download).
 
 ###### Feedback
-Nos dê seu feedback ou relate bugs clicando [aqui](https://docs.google.com/forms/d/1aXB9Sz65aHdQyFrgt6lOJ4-bYLdt-QyCoZ4nP6gaK90/edit).
+Nos dê seu feedback ou relate bugs clicando [aqui]([https://forms.gle/1tQqyndUzywQ2PW29).
