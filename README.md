@@ -7,7 +7,7 @@ Repositório destinado ao download e visualização de atualizações do protót
 
 ###### Downloads
 Download do ProEnf v1.5 disponível [aqui](https://drive.google.com/u/0/uc?id=12ReUxPwiQXwP-KI39jvYZPCE2dhC3Nkb&export=download).
-Download do ProEnf v1.7 disponível em breve.
+<br />Download do ProEnf v1.7 disponível em breve.
 
 ###### Feedback
 Nos dê seu feedback ou relate bugs clicando [aqui](https://forms.gle/1tQqyndUzywQ2PW29).
