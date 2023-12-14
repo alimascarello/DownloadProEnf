@@ -2,7 +2,7 @@
 Repositório destinado ao download e visualização de atualizações do protótipo.
 
 ### Atenção!
-&#x1F534;Este app trata-se de um protótipo não testado e NÃO deve ser utilizado em ambientes reais no momento, apenas para fins de aprendizado e estudo. Ao utilizá-lo você deve estar ciente que dados podem ser deletados para fins de alterações no protótipo.&#x1F534;
+&#x1F534;Este app trata-se de um protótipo não testado e NÃO deve ser utilizado em ambientes reais no seu estado atual, apenas para fins de aprendizado e estudo. Ao utilizá-lo você deve estar ciente que dados podem ser deletados para fins de alterações no protótipo.&#x1F534;
 
 ###### Requisitos
 - Android 5.0 ou superior;
