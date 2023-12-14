@@ -1,6 +1,8 @@
 ### ProEnf
 Repositório destinado ao download e visualização de atualizações do protótipo.
 
+#### <span style="color:red">Atenção!</span> Este app trata-se de um <span style="color:red">protótipo não testado</span> e <span style="color:red">NÃO</span> deve ser utilizado em ambientes reais, apenas para fins de aprendizado e estudo. Ao utilizá-lo você deve estar ciente que <span style="color:red">dados podem ser deletados</span> para fins de alterações no protótipo.
+
 ###### Requisitos
 - Android 5.0 ou superior;
 - Permissão para instalação de apps terceiros (fontes desconhecidas).
